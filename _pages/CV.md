@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-[Full CV Download Here](/assets/pdf/CV-Ph.D.pdf).
+[Full CV Download Here](/assets/pdf/CV-Lu_Yin.pdf).
 
 <html>
   <head>
