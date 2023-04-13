@@ -431,7 +431,7 @@ nav_order: 2
           <div class="details">
             <header>
               <h3>M.Eng C. in Control Engineering.</h3>
-              <span class="place">Harbin Institute of Technology Shenzhen Graduate School</span>
+              <span class="place">Harbin Institute of Technology, Shenzhen </span>
               <span class="location"><i class='fas fa-map-marker-alt'></i> Shenzhen, China</span>
             </header>
             <div>Department: Mechanical Engineering and Automation
@@ -452,7 +452,7 @@ nav_order: 2
           <div class="details">
             <header>
               <h3>B.Eng in Electrical Engineering and Automation</h3>
-              <span class="place">Harbin Institute of Technology</span>
+              <span class="place">Harbin Institute of Technology, Weihai</span>
               <span class="location"><i class='fas fa-map-marker-alt'></i> China</span>
             </header>
             <div>Department: Information and Electrical Engineering
