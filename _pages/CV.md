@@ -592,8 +592,8 @@ nav_order: 2
         </section>
 
 
-        
-         <section class="blocks">
+
+         <!-- <section class="blocks">
           <div class="date">
             <span>08.2016</span><span>01.2017</span>
           </div>
@@ -611,7 +611,7 @@ nav_order: 2
               </ul>
               </div>
           </div>
-        </section>
+        </section> -->
 
 
 
