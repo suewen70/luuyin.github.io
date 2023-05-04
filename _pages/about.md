@@ -22,8 +22,8 @@ Before moving to the Netherlands, I obtained my master's and bachelor's degrees 
 
 My research interests include sparse training, data efficiency, knowledge elicitation and representation.
 
-
-<font color=B71C1C>On the job market now, feel free to contact me! :)</font>
+<!-- 
+<font color=B71C1C>On the job market now, feel free to contact me! :)</font> -->
 
 
 
