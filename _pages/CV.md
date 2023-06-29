@@ -632,7 +632,7 @@ nav_order: 2
           <div class="details">
             <header>
                       
-            <h4>Please see my  <a href="/assets/pdf/CV-Ph.D.pdf">full CV</a> , <a href="https://scholar.google.com/citations?user=G4Xe1NkAAAAJ">google scholar</a> and <a href="/publications/">publication page</a></h4>
+            <h4>Please see my  <a href="/assets/pdf/CV-Lu_Yin.pdf">full CV</a> , <a href="https://scholar.google.com/citations?user=G4Xe1NkAAAAJ">google scholar</a> and <a href="/publications/">publication page</a></h4>
           
             </header>
 

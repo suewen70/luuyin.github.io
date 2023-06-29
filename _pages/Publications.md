@@ -10,7 +10,14 @@ nav_order: 2
 ---
 <!-- _pages/publications.md -->
 
-### *Sparse Neural Network*
+<script>
+    window.location.href = "https://scholar.google.com/citations?user=G4Xe1NkAAAAJ&hl=en";
+</script>
+
+
+
+
+<!-- ### *Sparse Neural Network*
 <div class="publications">
 
 {%- for y in page.years %}
@@ -30,4 +37,4 @@ nav_order: 2
 {% endfor %}
 
 
-</div>
+</div> -->

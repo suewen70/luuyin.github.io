@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. candidate at TU/e, l.yin@tue.nl
+subtitle: <i> Ph.D. candidate at TU/e, l.yin@tue.nl </i>
 
 profile:
   align: right
@@ -20,7 +20,11 @@ Hi!  I am Lu, currently a Ph.D. candidate of machine learning in the data mining
 
 Before moving to the Netherlands, I obtained my master's and bachelor's degrees at the [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology). 
 
-My research interests include sparse training, data efficiency, knowledge elicitation and representation.
+My research interests include model efficiency , data efficiency and knowledge elicitation and representation.
+
+
+
+
 
 <!-- 
 <font color=B71C1C>On the job market now, feel free to contact me! :)</font> -->
