@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings! I'm Lu, currently a researcher interning at <font color=009f06>Google's NYC office</font>. I am also serving as a Postdoctoral fellow at Eindhoven University of Technology (TU/e), located in the beautiful Netherlands. 
 
-I hold a Ph.D. degree in the data mining group in TU/e, where I was fortunate to be supervised by the esteemed professors [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Vlado Menkovski ](https://vlamen.github.io/). Before that, I obtained my master's and bachelor's degrees at the [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology). 
+I hold a Ph.D. degree in the data mining group in TU/e, where I was fortunate to be supervised by the esteemed [Prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Dr. Vlado Menkovski ](https://vlamen.github.io/). Before that, I obtained my master's and bachelor's degrees at the [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology). 
 
 My research interests include model efficiency , data efficiency and knowledge elicitation and representation.
 
